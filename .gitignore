@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoits
 *.tif
 *.pt
+*.xml
+*.zip
