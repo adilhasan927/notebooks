@@ -1,3 +1,0 @@
-prithvi_config = {
-    
-}

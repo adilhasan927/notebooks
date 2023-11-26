@@ -1,0 +1,81 @@
+,name,ymin,ymax,xmin,xmax,src,tree_name
+0,Campnosperma Auriculatum,4017,4166,4305,4485,93deg,Campnosperma N
+1,Campnosperma Auriculatum,4583,4702,4242,4421,93deg,Campnosperma S
+2,Palm Tree,4471,4648,3706,3891,93deg,Palm Tree
+3,Campnosperma Auriculatum,3833,3984,4717,4901,183deg,Campnosperma N
+4,Campnosperma Auriculatum,4403,4520,4639,4795,183deg,Campnosperma S
+5,Palm Tree,4289,4450,4162,4334,183deg,Palm Tree
+6,Campnosperma Auriculatum,3306,3644,6863,7276,183deg,Campnosperma E
+7,Macaranga Gigantea,1259,1846,4600,5041,183deg,macagi top
+8,Macaranga Gigantea,2207,2623,2626,3200,183deg,macagi top left
+9,Macaranga Gigantea,2849,3096,4916,5049,183deg,macagi middle
+10,Macaranga Gigantea,3729,3976,3664,3897,183deg,macagi bottom
+11,Campnosperma Auriculatum,3501,3836,6458,6810,93deg,Campnosperma E
+12,Macaranga Gigantea,1375,2037,4117,4554,93deg,macagi top
+13,Macaranga Gigantea,2393,2793,2193,2709,93deg,macagi top left
+14,Macaranga Gigantea,3015,3279,4476,4636,93deg,macagi middle
+15,Macaranga Gigantea,3921,4196,3224,3444,93deg,macagi bottom
+16,Falcataria Moluccana,2310,3100,2323,2918,10May2021,Falcataria Moluccana #0
+17,Ficus Variegata,2565,3063,1089,1612,10May2021,Ficus Variegata #0
+18,Bridelia Sp.,3285,3739,1314,2043,10May2021,Bridelia Sp. #0
+19,Falcataria Moluccana,4421,5029,1516,2230,10May2021,Falcataria Moluccana #1
+20,Falcataria Moluccana,5330,6567,2054,2548,10May2021,Falcataria Moluccana #2
+21,Spathodea Campanulatum,4319,4705,2800,3232,10May2021,Spathodea Campanulatum #0
+22,Terminalia Catappa,5409,6060,3143,3899,10May2021,Terminalia Catappa #0
+23,Spathodea Campanulatum,6096,6539,2823,3069,10May2021,Spathodea Campanulatum #1
+24,Shorea Leprosula,6325,6448,4105,4209,10May2021,Shorea Leprosula #0
+25,Syzygium Polyanthum,6087,6261,3980,4171,10May2021,Syzygium Polyanthum #0
+26,Cinnamomum Iners,6581,6901,4012,4247,10May2021,Cinnamomum Iners #0
+27,Clausena Excavata,6551,6720,4279,4391,10May2021,Clausena Excavata #0
+28,Cinnamomum Iners,6274,6566,4374,4618,10May2021,Cinnamomum Iners #1
+29,Alstonia Angulstiloba,5687,5945,4222,4508,10May2021,Alstonia Angulstiloba #0
+30,Spathodea Campanulatum,4979,5231,4061,4337,10May2021,Spathodea Campanulatum #2
+31,Clausena Excavata,4150,4398,3323,3550,10May2021,Clausena Excavata #1
+32,Syzygium Polyanthum,3998,4184,3539,3696,10May2021,Syzygium Polyanthum #1
+33,Sandoricum Koetjape,3474,3790,3318,3536,10May2021,Sandoricum Koetjape #0
+34,Sterculia Parviflora,3231,3424,3477,3653,10May2021,Sterculia Parviflora #0
+35,Alstonia Angulstiloba,2983,3267,3746,4083,10May2021,Alstonia Angulstiloba #1
+36,Claoxylon Indicum,2253,2539,3144,3329,10May2021,Claoxylon Indicum #0
+37,Bridelia Sp.,2074,2244,3310,3592,10May2021,Bridelia Sp. #1
+38,Pometia Pinnata,2419,2561,3797,3935,10May2021,Pometia Pinnata #0
+39,Sterculia Parviflora,2530,2650,3963,4063,10May2021,Sterculia Parviflora #1
+40,Calophyllum,2672,2749,3842,3927,10May2021,Calophyllum #0
+41,Pennisetum Purpureum,2362,2646,3428,3749,10May2021,Pennisetum Purpureum #0
+42,Sterculia Parviflora,2790,2879,4034,4123,10May2021,Sterculia Parviflora #2
+43,Campnosperma Auriculatum,712,1437,4220,4572,10May2021,Campnosperma Auriculatum #0
+44,Dillenia Suffruticosa,3059,3148,4569,4669,10May2021,Dillenia Suffruticosa #0
+45,Sterculia Parviflora,3328,3470,4045,4187,10May2021,Sterculia Parviflora #3
+46,Ficus Variegata,6864,7266,3729,3949,10May2021,Ficus Variegata #1
+47,Spathodea Campanulatum,1527,1940,2907,3307,10May2021,Spathodea Campanulatum #3
+48,Cratoxylum Formosum,6138,6922,4664,4880,10May2021,Cratoxylum Formosum #0
+49,Falcataria Moluccana,2187,3018,1841,2541,18Dec2020,Falcataria Moluccana #3
+50,Ficus Variegata,2422,2962,812,1348,18Dec2020,Ficus Variegata #2
+51,Bridelia Sp.,3095,3552,1049,1709,18Dec2020,Bridelia Sp. #2
+52,Falcataria Moluccana,4317,4876,1243,1783,18Dec2020,Falcataria Moluccana #4
+53,Falcataria Moluccana,5118,5862,1850,2232,18Dec2020,Falcataria Moluccana #5
+54,Spathodea Campanulatum,4106,4481,2381,2836,18Dec2020,Spathodea Campanulatum #4
+55,Terminalia Catappa,5147,5822,2849,3525,18Dec2020,Terminalia Catappa #1
+56,Spathodea Campanulatum,5852,6137,2461,2712,18Dec2020,Spathodea Campanulatum #5
+57,Shorea Leprosula,6007,6129,3650,3781,18Dec2020,Shorea Leprosula #1
+58,Cinnamomum Iners,6263,6502,3628,3776,18Dec2020,Cinnamomum Iners #2
+59,Clausena Excavata,6275,6404,3840,3924,18Dec2020,Clausena Excavata #2
+60,Cinnamomum Iners,5911,6186,3955,4176,18Dec2020,Cinnamomum Iners #3
+61,Alstonia Angulstiloba,5430,5666,3777,4036,18Dec2020,Alstonia Angulstiloba #2
+62,Spathodea Campanulatum,4691,4928,3673,3923,18Dec2020,Spathodea Campanulatum #6
+63,Clausena Excavata,3983,4156,2938,3170,18Dec2020,Clausena Excavata #3
+64,Syzygium Polyanthum,3827,3968,3127,3294,18Dec2020,Syzygium Polyanthum #2
+65,Sandoricum Koetjape,3273,3699,2923,3197,18Dec2020,Sandoricum Koetjape #1
+66,Sterculia Parviflora,3102,3258,3085,3247,18Dec2020,Sterculia Parviflora #4
+67,Alstonia Angulstiloba,2855,3102,3387,3608,18Dec2020,Alstonia Angulstiloba #3
+68,Claoxylon Indicum,2221,2392,2843,2950,18Dec2020,Claoxylon Indicum #1
+69,Bridelia Sp.,1997,2166,2917,3159,18Dec2020,Bridelia Sp. #3
+70,Pometia Pinnata,2316,2413,3401,3494,18Dec2020,Pometia Pinnata #1
+71,Sterculia Parviflora,2383,2503,3551,3674,18Dec2020,Sterculia Parviflora #5
+72,Calophyllum,2571,2638,3439,3511,18Dec2020,Calophyllum #1
+73,Pennisetum Purpureum,2215,2493,3100,3327,18Dec2020,Pennisetum Purpureum #1
+74,Sterculia Parviflora,2659,2783,3585,3724,18Dec2020,Sterculia Parviflora #6
+75,Campnosperma Auriculatum,671,1006,3777,4026,18Dec2020,Campnosperma Auriculatum #1
+76,Dillenia Suffruticosa,2931,2996,4064,4172,18Dec2020,Dillenia Suffruticosa #1
+77,Sterculia Parviflora,3178,3319,3629,3756,18Dec2020,Sterculia Parviflora #7
+78,Ficus Variegata,6466,6845,3372,3571,18Dec2020,Ficus Variegata #3
+79,Spathodea Campanulatum,1369,1776,2571,2849,18Dec2020,Spathodea Campanulatum #7
